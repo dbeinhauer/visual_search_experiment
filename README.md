@@ -1,6 +1,6 @@
 # Visual Search Experiment
 
-Homework to the "Informatics and Coginitive Science 1" course - Visual search experiment. 
+Homework to the "Informatics and Cognitive Science 1" course - Visual search experiment. 
 View the render of the report: 
 [visual_search_experiment-report](https://raw.githack.com/dbeinhauer/visual_search_experiment/main/visual-search-experiment-report.html)
 
